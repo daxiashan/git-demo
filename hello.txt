@@ -6,4 +6,4 @@ hello git,i'm shanzc!   you've been protected!!!don't worry!!!
 hello git,i'm shanzc!
 hello git,i'm shanzc!
 hello git,i'm shanzc!   master test
-hello git,i'm shanzc!
+hello git,i'm shanzc!   hot-fix test
